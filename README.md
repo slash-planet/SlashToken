@@ -1,0 +1,2 @@
+# SlashToken
+SlashToken contract
